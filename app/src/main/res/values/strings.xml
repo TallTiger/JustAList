@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JustAList</string>
+    <string name="buttonText">Add</string>
+    <string name="prompts">How are you?</string>
+</resources>
